@@ -1,7 +1,6 @@
 # Pomodoro Timer
 
 Welcome to the Pomodoro Timer website! This simple and efficient web application helps you manage your time effectively using the Pomodoro Technique. It includes a login page for a personalized experience and a Pomodoro page with various features to enhance your productivity.
-#### This project is currently hosted on GitHub Pages. You can access the live website [here](https://r-abhinav1.github.io/pomodoro-timer/).
 ## Login Page
 
 The login page provides a dynamic form with form validation to ensure accurate information. It accepts the following details:
@@ -42,38 +41,8 @@ The Pomodoro page also offers additional features for a customized experience:
 
 This website is built using HTML, CSS, and JavaScript to create an interactive and user-friendly Pomodoro Timer application.
 
-## Installation
-
-To use the Pomodoro Timer website locally, follow these simple steps:
-
-1. Clone the repository to your local machine.
-
-    ```bash
-    git clone https://github.com/r-abhinav1/pomodoro-timer.git
-    ```
-
-2. Navigate to the project directory.
-
-    ```bash
-    cd pomodoro-timer-website
-    ```
-
-3. Open the `index.html` file in your preferred web browser.
-
-    ```bash
-    # Example for Linux
-    firefox index.html
-    ```
-
-Now you can enjoy the Pomodoro Timer website on your local machine!
 
 ## Screenshots
-### Login
-![login screen](https://github.com/r-abhinav1/pomodoro-timer/assets/143101364/a1ed06b5-bb96-40f1-b1cf-03e2cacad339)
-
-### Transition
-
-https://github.com/r-abhinav1/pomodoro-timer/assets/143101364/d00d29e4-bd2b-493f-8bb0-d2cff07d37d3
 
 ### Main Page
 
